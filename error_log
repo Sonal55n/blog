@@ -1,0 +1,96 @@
+[07-Sep-2024 15:21:13 UTC] PHP Warning:  require(path/to/PHPMailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:21:13 UTC] PHP Warning:  require(path/to/PHPMailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:21:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/kujannej/learnfixx.site/demo1/send_email.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:21:17 UTC] PHP Warning:  require(path/to/PHPMailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:21:17 UTC] PHP Warning:  require(path/to/PHPMailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:21:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/kujannej/learnfixx.site/demo1/send_email.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:23:07 UTC] PHP Warning:  require(path/to/PHPMailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:23:07 UTC] PHP Warning:  require(path/to/PHPMailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:23:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/kujannej/learnfixx.site/demo1/send_email.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:29:09 UTC] PHP Warning:  require(path/to/PHPMailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:29:09 UTC] PHP Warning:  require(path/to/PHPMailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:29:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/kujannej/learnfixx.site/demo1/send_email.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:29:54 UTC] PHP Warning:  require(path/to/PHPMailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:29:54 UTC] PHP Warning:  require(path/to/PHPMailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:29:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/kujannej/learnfixx.site/demo1/send_email.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kujannej/learnfixx.site/demo1/send_email.php on line 2
+[07-Sep-2024 15:35:08 UTC] PHP Warning:  require(path/to/PHPMailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/kujannej/learnfixx.site/demo1/send_email.php on line 4
+[07-Sep-2024 15:35:08 UTC] PHP Warning:  require(path/to/PHPMailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/kujannej/learnfixx.site/demo1/send_email.php on line 4
+[07-Sep-2024 15:35:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/kujannej/learnfixx.site/demo1/send_email.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/kujannej/learnfixx.site/demo1/send_email.php on line 4
+[08-Sep-2024 12:06:07 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 40
+[08-Sep-2024 12:06:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 40
+[08-Sep-2024 12:06:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kujannej/learnfixx.site/demo1/edit.php on line 40
+[08-Sep-2024 12:06:07 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 41
+[08-Sep-2024 12:06:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 41
+[08-Sep-2024 12:06:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kujannej/learnfixx.site/demo1/edit.php on line 41
+[08-Sep-2024 12:06:07 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 42
+[08-Sep-2024 12:06:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 42
+[08-Sep-2024 12:06:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kujannej/learnfixx.site/demo1/edit.php on line 42
+[08-Sep-2024 12:18:41 UTC] PHP Warning:  Undefined variable $output in /home/kujannej/learnfixx.site/demo1/edit.php on line 148
+[08-Sep-2024 12:18:41 UTC] PHP Warning:  Undefined variable $title in /home/kujannej/learnfixx.site/demo1/edit.php on line 148
+[08-Sep-2024 12:18:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 148
+[08-Sep-2024 12:18:41 UTC] PHP Warning:  Undefined variable $output in /home/kujannej/learnfixx.site/demo1/edit.php on line 196
+[08-Sep-2024 12:18:41 UTC] PHP Warning:  Undefined variable $content in /home/kujannej/learnfixx.site/demo1/edit.php on line 196
+[08-Sep-2024 12:18:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 196
+[08-Sep-2024 12:20:39 UTC] PHP Warning:  Undefined variable $output in /home/kujannej/learnfixx.site/demo1/edit.php on line 148
+[08-Sep-2024 12:20:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 148
+[08-Sep-2024 12:20:39 UTC] PHP Warning:  Undefined variable $output in /home/kujannej/learnfixx.site/demo1/edit.php on line 196
+[08-Sep-2024 12:20:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 196
+[08-Sep-2024 12:20:47 UTC] PHP Warning:  Undefined variable $output in /home/kujannej/learnfixx.site/demo1/edit.php on line 148
+[08-Sep-2024 12:20:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 148
+[08-Sep-2024 12:20:47 UTC] PHP Warning:  Undefined variable $output in /home/kujannej/learnfixx.site/demo1/edit.php on line 196
+[08-Sep-2024 12:20:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 196
+[08-Sep-2024 12:25:47 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 91
+[08-Sep-2024 12:25:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 91
+[08-Sep-2024 12:25:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kujannej/learnfixx.site/demo1/edit.php on line 91
+[08-Sep-2024 12:25:47 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 94
+[08-Sep-2024 12:25:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 94
+[08-Sep-2024 12:25:47 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 95
+[08-Sep-2024 12:25:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 95
+[08-Sep-2024 12:25:47 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 105
+[08-Sep-2024 12:25:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 105
+[08-Sep-2024 12:25:58 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 91
+[08-Sep-2024 12:25:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 91
+[08-Sep-2024 12:25:58 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kujannej/learnfixx.site/demo1/edit.php on line 91
+[08-Sep-2024 12:25:58 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 94
+[08-Sep-2024 12:25:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 94
+[08-Sep-2024 12:25:58 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 95
+[08-Sep-2024 12:25:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 95
+[08-Sep-2024 12:25:58 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 105
+[08-Sep-2024 12:25:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 105
+[08-Sep-2024 12:26:00 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 91
+[08-Sep-2024 12:26:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 91
+[08-Sep-2024 12:26:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kujannej/learnfixx.site/demo1/edit.php on line 91
+[08-Sep-2024 12:26:00 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 94
+[08-Sep-2024 12:26:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 94
+[08-Sep-2024 12:26:00 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 95
+[08-Sep-2024 12:26:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 95
+[08-Sep-2024 12:26:00 UTC] PHP Warning:  Undefined variable $article in /home/kujannej/learnfixx.site/demo1/edit.php on line 105
+[08-Sep-2024 12:26:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 105
+[08-Sep-2024 12:28:37 UTC] PHP Warning:  Undefined variable $output in /home/kujannej/learnfixx.site/demo1/edit.php on line 148
+[08-Sep-2024 12:28:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 148
+[08-Sep-2024 12:28:37 UTC] PHP Warning:  Undefined variable $output in /home/kujannej/learnfixx.site/demo1/edit.php on line 196
+[08-Sep-2024 12:28:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 196
+[08-Sep-2024 12:29:20 UTC] PHP Warning:  Undefined variable $output in /home/kujannej/learnfixx.site/demo1/edit.php on line 148
+[08-Sep-2024 12:29:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 148
+[08-Sep-2024 12:29:20 UTC] PHP Warning:  Undefined variable $output in /home/kujannej/learnfixx.site/demo1/edit.php on line 196
+[08-Sep-2024 12:29:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/edit.php on line 196
+[11-Sep-2024 17:26:56 UTC] PHP Warning:  Undefined array key "login_user" in /home/kujannej/learnfixx.site/demo1/data.php on line 6
+[11-Sep-2024 17:26:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kujannej/learnfixx.site/demo1/data.php on line 6
