@@ -3,9 +3,9 @@
 session_start();
 
 $servername = "localhost";
-$username = "kujannej_learnfixx"; // Replace with your given code name for username
-$password = "learnfixx55n"; // Replace with your given code name for password
-$database = "kujannej_learnfixx"; // Replace with your given code name for database name
+$username = "root"; // Replace with your given code name for username
+$password = ""; // Replace with your given code name for password
+$database = "test"; // Replace with your given code name for database name
 
 $conn = mysqli_connect($servername, $username, $password, $database);
 
